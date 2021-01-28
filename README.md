@@ -9,6 +9,7 @@ See <a href="https://github.com/Logan1x/Logan1x.github.io/blob/master/LICENSE">L
 
 ## Contributors 🦸
 
+- Will Hodges ([@HungryWolf418](https://github.com/hungrywolf418))
 - Evan Doocy ([@Logan1x](https://github.com/Logan1x))
 - Ravi Kant Garg ([@garg-ravi24](https://github.com/garg-ravi24))
 - prakamya mishra([@prakamya-mishra](https://github.com/prakamya-mishra))
